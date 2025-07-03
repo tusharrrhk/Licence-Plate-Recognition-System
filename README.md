@@ -1,6 +1,8 @@
 # 🚗 License Plate Recognition from Video
 
 A simple AI-powered project that detects and reads vehicle license plates from video using **Python**, **OpenCV**, and **EasyOCR**. It extracts frames from a video, isolates license plate regions using image processing, and recognizes the text using OCR.
+<p align="center">
+<img src="Logo.jpg" alt="Company Logo" width="350">
 
 ---
 
